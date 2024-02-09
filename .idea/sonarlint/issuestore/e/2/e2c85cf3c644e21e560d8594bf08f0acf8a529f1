@@ -1,0 +1,444 @@
+
+
+java:S1319"iThe type of "PLAN_MAPPING" should be an interface such as "Map" rather than the implementation "HashMap".(Ù¯ƒ¢
+t
+java:S1104"YMake ACTUAL_AMOUNT a static final constant or non-public and provide accessors if needed.(×†¦ùÿÿÿÿ
+m
+java:S1104	"RMake AMOUNT a static final constant or non-public and provide accessors if needed.(Ï¡•ûÿÿÿÿ
+i
+java:S1104
+"SMake BALANCE a static final constant or non-public and provide accessors if needed.(†ç‹°
+l
+java:S1104"QMake EMAIL a static final constant or non-public and provide accessors if needed.(·éÃæúÿÿÿÿ
+m
+java:S1104"RMake GENDER a static final constant or non-public and provide accessors if needed.(°Œ„±şÿÿÿÿ
+o
+java:S1104"YMake HAS_USER_PAID a static final constant or non-public and provide accessors if needed.( —Õ™
+s
+java:S1104"XMake HOME_BALANCE a static final constant or non-public and provide accessors if needed.(åÉ¼şÿÿÿÿ
+t
+java:S1104"YMake IS_AUTH_LOGIN a static final constant or non-public and provide accessors if needed.(ù×šĞÿÿÿÿÿ
+m
+java:S1104"WMake IS_AUTH_REG a static final constant or non-public and provide accessors if needed.(ˆÉ
+r
+java:S1104"\Make IS_TOPUP_ALLOWED a static final constant or non-public and provide accessors if needed.(ğ©µ
+n
+java:S1104"XMake JSON_MESSAGE a static final constant or non-public and provide accessors if needed.(ÿ¨Ş 
+h
+java:S1104"RMake LITRES a static final constant or non-public and provide accessors if needed.(¤½¢
+m
+java:S1104"WMake NEW_PLAN_ID a static final constant or non-public and provide accessors if needed.(êÿı¬
+j
+java:S1104"TMake PASSWORD a static final constant or non-public and provide accessors if needed.(àƒ›…
+m
+java:S1104"RMake PERIOD a static final constant or non-public and provide accessors if needed.(ßã…ˆşÿÿÿÿ
+k
+java:S1104"PMake PLAN a static final constant or non-public and provide accessors if needed.(÷ÄØ„ûÿÿÿÿ
+s
+java:S1104"XMake PLAN_CHANGED a static final constant or non-public and provide accessors if needed.(’æôˆøÿÿÿÿ
+i
+java:S1104"SMake PLAN_ID a static final constant or non-public and provide accessors if needed.(¤¬
+n
+java:S1104"XMake PLAN_MAPPING a static final constant or non-public and provide accessors if needed.(Ù¯ƒ¢
+p
+java:S1104"UMake PLAN_NAME a static final constant or non-public and provide accessors if needed.(âÆ¨Íûÿÿÿÿ
+m
+java:S1104"WMake PLAN_STATUS a static final constant or non-public and provide accessors if needed.(ãå¿
+e
+java:S1104"PMake RATE a static final constant or non-public and provide accessors if needed.(îø“h
+u
+java:S1104"ZMake RATE_PER_LITRE a static final constant or non-public and provide accessors if needed.(›Ëë×ûÿÿÿÿ
+n
+java:S1104"YMake RECHARGE_TYPE a static final constant or non-public and provide accessors if needed.(¾Õ®>
+o
+java:S1104 "YMake REFERRAL_CODE a static final constant or non-public and provide accessors if needed.( õØ
+j
+java:S1104!"OMake RPL a static final constant or non-public and provide accessors if needed.(ìÃœŒøÿÿÿÿ
+m
+java:S1104""WMake SESSION_KEY a static final constant or non-public and provide accessors if needed.(á„ôğ
+g
+java:S1104#"QMake TOKEN a static final constant or non-public and provide accessors if needed.(òõæ
+u
+java:S1104$"ZMake TOTAL_CONSUMED a static final constant or non-public and provide accessors if needed.(›ƒ«ñşÿÿÿÿ
+i
+java:S1104%"SMake USER_ID a static final constant or non-public and provide accessors if needed.(¬†¢
+p
+java:S1104&"UMake USER_NAME a static final constant or non-public and provide accessors if needed.(…øÈ´ûÿÿÿÿ
+l
+java:S1104'"VMake USER_PHONE a static final constant or non-public and provide accessors if needed.(‘Ğªâ
+m
+java:S1104("XMake USER_PLAN_ID a static final constant or non-public and provide accessors if needed.(º«û
+j
+java:S1104)"TMake VALIDITY a static final constant or non-public and provide accessors if needed.(ìš¢
+~
+java:S1104*"cMake IS_PLAN_CHANGED_ALLOWED a static final constant or non-public and provide accessors if needed.(¬»¡îúÿÿÿÿ
+r
+java:S1104+"WMake CIPHER_MODE a static final constant or non-public and provide accessors if needed.(³›Îéıÿÿÿÿ
+m
+java:S1104,"WMake BEL_ENC_KEY a static final constant or non-public and provide accessors if needed.(â™ü÷
+t
+java:S1104-"^Make BLE_CONFIG_COMMAND a static final constant or non-public and provide accessors if needed.(”÷ù´
+p
+java:S1104."ZMake CONFIG_COMMAND a static final constant or non-public and provide accessors if needed.(¥¡×§
+{
+java:S1104/"`Make CONFIG_RESET_COMMAND a static final constant or non-public and provide accessors if needed.(¨ŞÁùÿÿÿÿ
+
+java:S11040"dMake CONFIG_RESET_COMMAND_AIR a static final constant or non-public and provide accessors if needed.(Ù¾úÊşÿÿÿÿ
+t
+java:S11041"^Make CONFIG_COMMAND_AIR a static final constant or non-public and provide accessors if needed.(ûá¸¾
+{
+java:S11042"`Make COMMAND_AIR_POWER_ON a static final constant or non-public and provide accessors if needed.(á‚Ìüÿÿÿÿ
+w
+java:S11043"aMake COMMAND_AIR_POWER_OFF a static final constant or non-public and provide accessors if needed.(éª¹•
+€
+java:S11044"eMake COMMAND_AIR_MANUL_MODE_ON a static final constant or non-public and provide accessors if needed.(°„å’ıÿÿÿÿ
+z
+java:S11045"dMake COMMAND_AIR_AUTO_MODE_ON a static final constant or non-public and provide accessors if needed.(äÓ¿Ş
+€
+java:S11046"eMake COMMAND_AIR_SLEEP_MODE_ON a static final constant or non-public and provide accessors if needed.(Ö·øØøÿÿÿÿ
+{
+java:S11047"eMake COMMAND_AIR_RAPID_MODE_ON a static final constant or non-public and provide accessors if needed.(°Ë‰
+‚
+java:S11048"gMake COMMAND_AIR_NAGATIVE_ION_ON a static final constant or non-public and provide accessors if needed.(¼¸İæøÿÿÿÿ
+~
+java:S11049"hMake COMMAND_AIR_NAGATIVE_ION_OFF a static final constant or non-public and provide accessors if needed.(£¤şƒ
+{
+java:S1104:"eMake COMMAND_AIR_CHILD_LOCK_ON a static final constant or non-public and provide accessors if needed.(ş°³
+|
+java:S1104;"fMake COMMAND_AIR_CHILD_LOCK_OFF a static final constant or non-public and provide accessors if needed.(µùË
+v
+java:S1104<"aMake COMMAND_AIR_FAN_SPEED a static final constant or non-public and provide accessors if needed.(÷¦£8
+€
+java:S1104="eMake COMMAND_AIR_SET_COUNTDOWN a static final constant or non-public and provide accessors if needed.(Óµ²œşÿÿÿÿ
+u
+java:S1104>"_Make COMMAND_AIR_REFRESH a static final constant or non-public and provide accessors if needed.(İ÷Êñ
+v
+java:S1104?"aMake COMMAND_DISPENSING_ON a static final constant or non-public and provide accessors if needed.(ŠÂ›
+w
+java:S1104@"bMake COMMAND_DISPENSING_OFF a static final constant or non-public and provide accessors if needed.(ùñÜf
+|
+java:S1104A"fMake COMMAND_COLD_DISPENSING_ON a static final constant or non-public and provide accessors if needed.(¦¡ı‹
+‚
+java:S1104B"gMake COMMAND_COLD_DISPENSING_OFF a static final constant or non-public and provide accessors if needed.(Œ‡ù¤ÿÿÿÿÿ
+s
+java:S1104C"]Make COMMAND_HOT_WATER a static final constant or non-public and provide accessors if needed.(Ş›ÃÈ
+y
+java:S1104D"^Make COMMAND_WARM_WATER a static final constant or non-public and provide accessors if needed.(­Üüÿÿÿÿ
+z
+java:S1104E"_Make COMMAND_TDS_SETTING a static final constant or non-public and provide accessors if needed.(ãÏÓÿÿÿÿÿ
+€
+java:S1104F"jMake COMMAND_BOTTLE_DISINFECTION_ON a static final constant or non-public and provide accessors if needed.(àáƒ®
+†
+java:S1104G"kMake COMMAND_BOTTLE_DISINFECTION_OFF a static final constant or non-public and provide accessors if needed.(µÿ‡øÿÿÿÿ
+s
+java:S1104H"]Make COMMAND_HEATER_ON a static final constant or non-public and provide accessors if needed.(Œ¨æ
+y
+java:S1104I"^Make COMMAND_HEATER_OFF a static final constant or non-public and provide accessors if needed.(úşÆ‹ùÿÿÿÿ
+s
+java:S1104J"]Make COMMAND_COOLIN_ON a static final constant or non-public and provide accessors if needed.(ÌñÌğ
+y
+java:S1104K"^Make COMMAND_COOLIN_OFF a static final constant or non-public and provide accessors if needed.(ÏíºÃûÿÿÿÿ
+|
+java:S1104L"aMake COMMAND_QUIET_MODE_ON a static final constant or non-public and provide accessors if needed.(©’›êúÿÿÿÿ
+}
+java:S1104M"bMake COMMAND_QUIET_MODE_OFF a static final constant or non-public and provide accessors if needed.(éò‰¿ıÿÿÿÿ
+}
+java:S1104N"gMake COMMAND_WATER_GENERATION_ON a static final constant or non-public and provide accessors if needed.(¬òòª
+ƒ
+java:S1104O"hMake COMMAND_WATER_GENERATION_OFF a static final constant or non-public and provide accessors if needed.(é³ŠÉùÿÿÿÿ
+N
+java:S1444"3Make this "public static ACTUAL_AMOUNT" field final(×†¦ùÿÿÿÿ
+G
+java:S1444	",Make this "public static AMOUNT" field final(Ï¡•ûÿÿÿÿ
+C
+java:S1444
+"-Make this "public static BALANCE" field final(†ç‹°
+F
+java:S1444"+Make this "public static EMAIL" field final(·éÃæúÿÿÿÿ
+G
+java:S1444",Make this "public static GENDER" field final(°Œ„±şÿÿÿÿ
+I
+java:S1444"3Make this "public static HAS_USER_PAID" field final( —Õ™
+M
+java:S1444"2Make this "public static HOME_BALANCE" field final(åÉ¼şÿÿÿÿ
+N
+java:S1444"3Make this "public static IS_AUTH_LOGIN" field final(ù×šĞÿÿÿÿÿ
+G
+java:S1444"1Make this "public static IS_AUTH_REG" field final(ˆÉ
+L
+java:S1444"6Make this "public static IS_TOPUP_ALLOWED" field final(ğ©µ
+H
+java:S1444"2Make this "public static JSON_MESSAGE" field final(ÿ¨Ş 
+B
+java:S1444",Make this "public static LITRES" field final(¤½¢
+G
+java:S1444"1Make this "public static NEW_PLAN_ID" field final(êÿı¬
+D
+java:S1444".Make this "public static PASSWORD" field final(àƒ›…
+G
+java:S1444",Make this "public static PERIOD" field final(ßã…ˆşÿÿÿÿ
+E
+java:S1444"*Make this "public static PLAN" field final(÷ÄØ„ûÿÿÿÿ
+M
+java:S1444"2Make this "public static PLAN_CHANGED" field final(’æôˆøÿÿÿÿ
+C
+java:S1444"-Make this "public static PLAN_ID" field final(¤¬
+H
+java:S1444"2Make this "public static PLAN_MAPPING" field final(Ù¯ƒ¢
+J
+java:S1444"/Make this "public static PLAN_NAME" field final(âÆ¨Íûÿÿÿÿ
+G
+java:S1444"1Make this "public static PLAN_STATUS" field final(ãå¿
+?
+java:S1444"*Make this "public static RATE" field final(îø“h
+O
+java:S1444"4Make this "public static RATE_PER_LITRE" field final(›Ëë×ûÿÿÿÿ
+H
+java:S1444"3Make this "public static RECHARGE_TYPE" field final(¾Õ®>
+I
+java:S1444 "3Make this "public static REFERRAL_CODE" field final( õØ
+D
+java:S1444!")Make this "public static RPL" field final(ìÃœŒøÿÿÿÿ
+G
+java:S1444""1Make this "public static SESSION_KEY" field final(á„ôğ
+A
+java:S1444#"+Make this "public static TOKEN" field final(òõæ
+O
+java:S1444$"4Make this "public static TOTAL_CONSUMED" field final(›ƒ«ñşÿÿÿÿ
+C
+java:S1444%"-Make this "public static USER_ID" field final(¬†¢
+J
+java:S1444&"/Make this "public static USER_NAME" field final(…øÈ´ûÿÿÿÿ
+F
+java:S1444'"0Make this "public static USER_PHONE" field final(‘Ğªâ
+G
+java:S1444("2Make this "public static USER_PLAN_ID" field final(º«û
+D
+java:S1444)".Make this "public static VALIDITY" field final(ìš¢
+X
+java:S1444*"=Make this "public static IS_PLAN_CHANGED_ALLOWED" field final(¬»¡îúÿÿÿÿ
+L
+java:S1444+"1Make this "public static CIPHER_MODE" field final(³›Îéıÿÿÿÿ
+G
+java:S1444,"1Make this "public static BEL_ENC_KEY" field final(â™ü÷
+N
+java:S1444-"8Make this "public static BLE_CONFIG_COMMAND" field final(”÷ù´
+J
+java:S1444."4Make this "public static CONFIG_COMMAND" field final(¥¡×§
+U
+java:S1444/":Make this "public static CONFIG_RESET_COMMAND" field final(¨ŞÁùÿÿÿÿ
+Y
+java:S14440">Make this "public static CONFIG_RESET_COMMAND_AIR" field final(Ù¾úÊşÿÿÿÿ
+N
+java:S14441"8Make this "public static CONFIG_COMMAND_AIR" field final(ûá¸¾
+U
+java:S14442":Make this "public static COMMAND_AIR_POWER_ON" field final(á‚Ìüÿÿÿÿ
+Q
+java:S14443";Make this "public static COMMAND_AIR_POWER_OFF" field final(éª¹•
+Z
+java:S14444"?Make this "public static COMMAND_AIR_MANUL_MODE_ON" field final(°„å’ıÿÿÿÿ
+T
+java:S14445">Make this "public static COMMAND_AIR_AUTO_MODE_ON" field final(äÓ¿Ş
+Z
+java:S14446"?Make this "public static COMMAND_AIR_SLEEP_MODE_ON" field final(Ö·øØøÿÿÿÿ
+U
+java:S14447"?Make this "public static COMMAND_AIR_RAPID_MODE_ON" field final(°Ë‰
+\
+java:S14448"AMake this "public static COMMAND_AIR_NAGATIVE_ION_ON" field final(¼¸İæøÿÿÿÿ
+X
+java:S14449"BMake this "public static COMMAND_AIR_NAGATIVE_ION_OFF" field final(£¤şƒ
+U
+java:S1444:"?Make this "public static COMMAND_AIR_CHILD_LOCK_ON" field final(ş°³
+V
+java:S1444;"@Make this "public static COMMAND_AIR_CHILD_LOCK_OFF" field final(µùË
+P
+java:S1444<";Make this "public static COMMAND_AIR_FAN_SPEED" field final(÷¦£8
+Z
+java:S1444="?Make this "public static COMMAND_AIR_SET_COUNTDOWN" field final(Óµ²œşÿÿÿÿ
+O
+java:S1444>"9Make this "public static COMMAND_AIR_REFRESH" field final(İ÷Êñ
+P
+java:S1444?";Make this "public static COMMAND_DISPENSING_ON" field final(ŠÂ›
+Q
+java:S1444@"<Make this "public static COMMAND_DISPENSING_OFF" field final(ùñÜf
+V
+java:S1444A"@Make this "public static COMMAND_COLD_DISPENSING_ON" field final(¦¡ı‹
+\
+java:S1444B"AMake this "public static COMMAND_COLD_DISPENSING_OFF" field final(Œ‡ù¤ÿÿÿÿÿ
+M
+java:S1444C"7Make this "public static COMMAND_HOT_WATER" field final(Ş›ÃÈ
+S
+java:S1444D"8Make this "public static COMMAND_WARM_WATER" field final(­Üüÿÿÿÿ
+T
+java:S1444E"9Make this "public static COMMAND_TDS_SETTING" field final(ãÏÓÿÿÿÿÿ
+Z
+java:S1444F"DMake this "public static COMMAND_BOTTLE_DISINFECTION_ON" field final(àáƒ®
+`
+java:S1444G"EMake this "public static COMMAND_BOTTLE_DISINFECTION_OFF" field final(µÿ‡øÿÿÿÿ
+M
+java:S1444H"7Make this "public static COMMAND_HEATER_ON" field final(Œ¨æ
+S
+java:S1444I"8Make this "public static COMMAND_HEATER_OFF" field final(úşÆ‹ùÿÿÿÿ
+M
+java:S1444J"7Make this "public static COMMAND_COOLIN_ON" field final(ÌñÌğ
+S
+java:S1444K"8Make this "public static COMMAND_COOLIN_OFF" field final(ÏíºÃûÿÿÿÿ
+V
+java:S1444L";Make this "public static COMMAND_QUIET_MODE_ON" field final(©’›êúÿÿÿÿ
+W
+java:S1444M"<Make this "public static COMMAND_QUIET_MODE_OFF" field final(éò‰¿ıÿÿÿÿ
+W
+java:S1444N"AMake this "public static COMMAND_WATER_GENERATION_ON" field final(¬òòª
+]
+java:S1444O"BMake this "public static COMMAND_WATER_GENERATION_OFF" field final(é³ŠÉùÿÿÿÿ
+º
+java:S1598"This file "AppConstants.java" should be located in "com/livpure/safedrink/utils" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/utils".(¡Û¸±ùÿÿÿÿ
+s
+java:S3008"XRename this field "ACTUAL_AMOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×†¦ùÿÿÿÿ
+l
+java:S3008	"QRename this field "AMOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¡•ûÿÿÿÿ
+h
+java:S3008
+"RRename this field "BALANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ç‹°
+k
+java:S3008"PRename this field "EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·éÃæúÿÿÿÿ
+l
+java:S3008"QRename this field "GENDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Œ„±şÿÿÿÿ
+n
+java:S3008"XRename this field "HAS_USER_PAID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( —Õ™
+r
+java:S3008"WRename this field "HOME_BALANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÉ¼şÿÿÿÿ
+s
+java:S3008"XRename this field "IS_AUTH_LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù×šĞÿÿÿÿÿ
+l
+java:S3008"VRename this field "IS_AUTH_REG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÉ
+q
+java:S3008"[Rename this field "IS_TOPUP_ALLOWED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ©µ
+m
+java:S3008"WRename this field "JSON_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Ş 
+g
+java:S3008"QRename this field "LITRES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤½¢
+l
+java:S3008"VRename this field "NEW_PLAN_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÿı¬
+i
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àƒ›…
+l
+java:S3008"QRename this field "PERIOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßã…ˆşÿÿÿÿ
+j
+java:S3008"ORename this field "PLAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÄØ„ûÿÿÿÿ
+r
+java:S3008"WRename this field "PLAN_CHANGED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’æôˆøÿÿÿÿ
+h
+java:S3008"RRename this field "PLAN_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¬
+m
+java:S3008"WRename this field "PLAN_MAPPING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¯ƒ¢
+o
+java:S3008"TRename this field "PLAN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÆ¨Íûÿÿÿÿ
+l
+java:S3008"VRename this field "PLAN_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãå¿
+d
+java:S3008"ORename this field "RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îø“h
+t
+java:S3008"YRename this field "RATE_PER_LITRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ëë×ûÿÿÿÿ
+m
+java:S3008"XRename this field "RECHARGE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Õ®>
+n
+java:S3008 "XRename this field "REFERRAL_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( õØ
+i
+java:S3008!"NRename this field "RPL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃœŒøÿÿÿÿ
+l
+java:S3008""VRename this field "SESSION_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á„ôğ
+f
+java:S3008#"PRename this field "TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òõæ
+t
+java:S3008$"YRename this field "TOTAL_CONSUMED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ƒ«ñşÿÿÿÿ
+h
+java:S3008%"RRename this field "USER_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬†¢
+o
+java:S3008&"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…øÈ´ûÿÿÿÿ
+k
+java:S3008'"URename this field "USER_PHONE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ğªâ
+l
+java:S3008("WRename this field "USER_PLAN_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º«û
+i
+java:S3008)"SRename this field "VALIDITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìš¢
+}
+java:S3008*"bRename this field "IS_PLAN_CHANGED_ALLOWED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬»¡îúÿÿÿÿ
+q
+java:S3008+"VRename this field "CIPHER_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³›Îéıÿÿÿÿ
+l
+java:S3008,"VRename this field "BEL_ENC_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â™ü÷
+s
+java:S3008-"]Rename this field "BLE_CONFIG_COMMAND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”÷ù´
+o
+java:S3008."YRename this field "CONFIG_COMMAND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¡×§
+z
+java:S3008/"_Rename this field "CONFIG_RESET_COMMAND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ŞÁùÿÿÿÿ
+~
+java:S30080"cRename this field "CONFIG_RESET_COMMAND_AIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¾úÊşÿÿÿÿ
+s
+java:S30081"]Rename this field "CONFIG_COMMAND_AIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûá¸¾
+z
+java:S30082"_Rename this field "COMMAND_AIR_POWER_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‚Ìüÿÿÿÿ
+v
+java:S30083"`Rename this field "COMMAND_AIR_POWER_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éª¹•
+
+java:S30084"dRename this field "COMMAND_AIR_MANUL_MODE_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„å’ıÿÿÿÿ
+y
+java:S30085"cRename this field "COMMAND_AIR_AUTO_MODE_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓ¿Ş
+
+java:S30086"dRename this field "COMMAND_AIR_SLEEP_MODE_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö·øØøÿÿÿÿ
+z
+java:S30087"dRename this field "COMMAND_AIR_RAPID_MODE_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ë‰
+
+java:S30088"fRename this field "COMMAND_AIR_NAGATIVE_ION_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¸İæøÿÿÿÿ
+}
+java:S30089"gRename this field "COMMAND_AIR_NAGATIVE_ION_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤şƒ
+z
+java:S3008:"dRename this field "COMMAND_AIR_CHILD_LOCK_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş°³
+{
+java:S3008;"eRename this field "COMMAND_AIR_CHILD_LOCK_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µùË
+u
+java:S3008<"`Rename this field "COMMAND_AIR_FAN_SPEED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¦£8
+
+java:S3008="dRename this field "COMMAND_AIR_SET_COUNTDOWN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµ²œşÿÿÿÿ
+t
+java:S3008>"^Rename this field "COMMAND_AIR_REFRESH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ÷Êñ
+u
+java:S3008?"`Rename this field "COMMAND_DISPENSING_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÂ›
+v
+java:S3008@"aRename this field "COMMAND_DISPENSING_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùñÜf
+{
+java:S3008A"eRename this field "COMMAND_COLD_DISPENSING_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¡ı‹
+
+java:S3008B"fRename this field "COMMAND_COLD_DISPENSING_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‡ù¤ÿÿÿÿÿ
+r
+java:S3008C"\Rename this field "COMMAND_HOT_WATER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş›ÃÈ
+x
+java:S3008D"]Rename this field "COMMAND_WARM_WATER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Üüÿÿÿÿ
+y
+java:S3008E"^Rename this field "COMMAND_TDS_SETTING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÏÓÿÿÿÿÿ
+
+java:S3008F"iRename this field "COMMAND_BOTTLE_DISINFECTION_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àáƒ®
+…
+java:S3008G"jRename this field "COMMAND_BOTTLE_DISINFECTION_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÿ‡øÿÿÿÿ
+r
+java:S3008H"\Rename this field "COMMAND_HEATER_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¨æ
+x
+java:S3008I"]Rename this field "COMMAND_HEATER_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úşÆ‹ùÿÿÿÿ
+r
+java:S3008J"\Rename this field "COMMAND_COOLIN_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌñÌğ
+x
+java:S3008K"]Rename this field "COMMAND_COOLIN_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏíºÃûÿÿÿÿ
+{
+java:S3008L"`Rename this field "COMMAND_QUIET_MODE_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©’›êúÿÿÿÿ
+|
+java:S3008M"aRename this field "COMMAND_QUIET_MODE_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éò‰¿ıÿÿÿÿ
+|
+java:S3008N"fRename this field "COMMAND_WATER_GENERATION_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬òòª
+‚
+java:S3008O"gRename this field "COMMAND_WATER_GENERATION_OFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é³ŠÉùÿÿÿÿ
+3
+java:S2386"Make this member "protected".(Ù¯ƒ¢
+P
+java:S1118":Add a private constructor to hide the implicit public one.(³ıƒ

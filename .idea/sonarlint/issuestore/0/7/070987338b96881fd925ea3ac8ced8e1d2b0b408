@@ -1,0 +1,79 @@
+
+a	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Ûûûòúÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(×Ÿ×ùÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(×Ÿ×ùÿÿÿÿ
+F
+java:S3740¢"/Provide the parametrized type for this generic.(À°áš
+F
+java:S3740­"/Provide the parametrized type for this generic.(¿Û¹ß
+F
+java:S3740­"/Provide the parametrized type for this generic.(¿Û¹ß
+Ÿ
+java:S1192Ø"‚Define a constant instead of duplicating this literal "Oops! We faced an issue with this request, please try again later" 3 times.(ğõŒØùÿÿÿÿ
+©
+java:S1192„"‘Define a constant instead of duplicating this literal "Oops! There was an issue contacting our servers. Please try again in some time." 11 times.(“ÔíÄ
+p
+java:S1192k"ZDefine a constant instead of duplicating this literal "nullDataObjectConstructor" 5 times.(ÆêŒË
+
+java:S1192t"uDefine a constant instead of duplicating this literal "this
+            .observâ€¦          }
+            }" 6 times.(°ŞÂ§úÿÿÿÿ
+^
+java:S11920"HDefine a constant instead of duplicating this literal "<this>" 14 times.(ôñÆ
+q
+java:S1192{"[Define a constant instead of duplicating this literal "$nullDataObjectConstructor" 5 times.(‡ÿë¯
+
+java:S1192“"vDefine a constant instead of duplicating this literal "this
+        .observeOn(â€¦in some time.\")
+        }" 4 times.(éò¿²
+K
+java:S1066»"/Merge this if statement with the enclosing one.(·İ‚Àøÿÿÿÿ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÎ¦­ùÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¢Ìùùÿÿÿÿ
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢äë
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ùÚ­ıÿÿÿÿ
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥‘â
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æ¤ğùÿÿÿÿ
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÂ‰ˆüÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¶ğ÷ùÿÿÿÿ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£õí†ûÿÿÿÿ
+g	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‘—š
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ç•Ïùÿÿÿÿ
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡¸Óÿÿÿÿÿ
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğï®
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À°áš
+®
+java:S1598"—This file "APIUtilKt.java" should be located in "com/livpure/safedrink/api" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/api".(â¬µ¾
+¥
+java:S4144²"ˆUpdate this method so that its implementation is not identical to "m291checkForExceptionsAndObserveServiceHistory$lambda13" on line 281.(Ô¤Õ•ûÿÿÿÿ
+¥
+java:S4144Ë"ˆUpdate this method so that its implementation is not identical to "m291checkForExceptionsAndObserveServiceHistory$lambda13" on line 281.(··ì¬ıÿÿÿÿ
+¥
+java:S4144ä"ˆUpdate this method so that its implementation is not identical to "m291checkForExceptionsAndObserveServiceHistory$lambda13" on line 281.(¹âÃõøÿÿÿÿ
+ 
+java:S4144“"ˆUpdate this method so that its implementation is not identical to "m291checkForExceptionsAndObserveServiceHistory$lambda13" on line 281.(ïë©«
+P
+java:S1118-":Add a private constructor to hide the implicit public one.(–…­â
+]
+java:S1854E"BRemove this useless assignment to local variable "baseDataHolder".(Úöûôüÿÿÿÿ
+N
+java:S1481E"3Remove this unused "baseDataHolder" local variable.(Úöûôüÿÿÿÿ
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ş…™
+c	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼å˜
+h	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¶Ë­ÿÿÿÿÿ
+d	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öã…
+i	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åä¡Ùùÿÿÿÿ
+d	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îâ¾¾
+d	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ´Ü·
+i	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ã¨Ëúÿÿÿÿ
+i	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¤Õ•ûÿÿÿÿ
+i	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(··ì¬ıÿÿÿÿ
+i	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹âÃõøÿÿÿÿ
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²«Äÿÿÿÿÿ
+d	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïë©«
+d	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Û¹ß
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âöÇüşÿÿÿÿ
+‘
+java:S1144¨"uRemove this unused private "processResponseWithAPIExceptionForAir$processResponseWithAPIExceptionForDispense" method.(âöÇüşÿÿÿÿ

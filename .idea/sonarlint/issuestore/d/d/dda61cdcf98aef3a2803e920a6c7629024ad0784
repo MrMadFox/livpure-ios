@@ -1,0 +1,12 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+2
+java:S1643%"Use a StringBuilder instead.(È Şô
+¾
+java:S1598"§This file "Encrypt.java" should be located in "com/livpure/safedrink/bolt/service" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/bolt/service".(©ÃÄĞ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¿­——ûÿÿÿÿ
+P
+java:S1118	":Add a private constructor to hide the implicit public one.(óŞÊç
+H
+java:S1144"-Remove this unused private "hex2byte" method.(±Şÿÿÿÿÿ

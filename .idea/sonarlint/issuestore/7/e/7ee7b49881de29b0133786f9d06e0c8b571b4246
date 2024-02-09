@@ -1,0 +1,10 @@
+
+Û
+java:S1598"ÄThis file "DispenserBLEStatus.java" should be located in "com/livpure/safedrink/dispenser/data/models" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/dispenser/data/models".(ÿÊŸœ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‰ Õ
+@
+java:S1172"*Remove this unused method parameter "obj".(½‰ Õ
+y
+java:S6201."^Replace this instanceof check and cast with 'instanceof DispenserBLEStatus dispenserBLEStatus'(ƒþ²·øÿÿÿÿ
+Z
+java:S1172D"?Remove this unused method parameter "defaultConstructorMarker".(»¶È¶üÿÿÿÿ

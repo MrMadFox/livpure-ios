@@ -1,0 +1,34 @@
+
+n
+java:S11921"SUse already-defined constant 'AUTHORIZATION' instead of duplicating its value here.(¼ÈÃúüÿÿÿÿ
+l
+java:S1192-"VUse already-defined constant 'APPLICATION_JSON' instead of duplicating its value here.(¯ÿê
+f
+java:S1192-"PUse already-defined constant 'ACCEPT_KEY' instead of duplicating its value here.(¯ÿê
+h
+java:S1192-"RUse already-defined constant 'CONTENT_TYPE' instead of duplicating its value here.(¯ÿê
+µ
+java:S1598"This file "APIHumsarService.java" should be located in "com/livpure/safedrink/api" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/api".(â¬µ¾
+I
+java:S1481(".Remove this unused "companion" local variable.(ìÅõşÿÿÿÿ
+U
+java:S1172;"?Remove this unused method parameter "defaultConstructorMarker".(í«ŠÈ
+U
+java:S1172C"?Remove this unused method parameter "defaultConstructorMarker".(Ò¢¹“
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å³ö
+k	java:S116\"QRename this field "this$0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»« ùÿÿÿÿ
+L
+java:S1172l"1Remove these unused method parameters "r3", "r4".(½ÈºÍıÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(‘úªùÿÿÿÿ
+D
+java:S1068".Remove this unused "ACCEPT_KEY" private field.(Àæ³ú
+O
+java:S1068"4Remove this unused "APPLICATION_JSON" private field.(ÏÏ…¥ıÿÿÿÿ
+G
+java:S1068"1Remove this unused "AUTHORIZATION" private field.(À¸ˆ†
+F
+java:S1068"0Remove this unused "CONTENT_TYPE" private field.(Œ‚ø©
+A
+java:S1068"+Remove this unused "baseUrl" private field.(ùà¯Å
+M
+java:S1144P"7Remove this unused private "m277_init_$lambda1" method.(å³ö

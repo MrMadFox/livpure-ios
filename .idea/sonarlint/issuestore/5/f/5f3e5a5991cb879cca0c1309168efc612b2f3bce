@@ -1,0 +1,7 @@
+
+Ó
+java:S1598"¼This file "DispenserRequestAPIService.java" should be located in "com/livpure/safedrink/dispenser/api" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/dispenser/api".(³Ì®û
+P
+java:S2209"5Change this instance-reference to a static reference.(ËÏÜûÿÿÿÿ
+´
+java:S6548%"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(é±ÚÁşÿÿÿÿ

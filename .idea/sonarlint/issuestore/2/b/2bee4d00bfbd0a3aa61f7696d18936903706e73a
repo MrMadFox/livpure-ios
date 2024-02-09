@@ -1,0 +1,14 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÿ´óûÿÿÿÿ
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰Ìı
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùç—ãûÿÿÿÿ
+Ó
+java:S1598"¼This file "BoltCommandsResponse.java" should be located in "com/livpure/safedrink/bolt/data/models" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/bolt/data/models".(¸µŸÜ
+m	java:S116"SRename this field "RTC_Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ„Œğşÿÿÿÿ
+p	java:S116"[Rename this field "RechargeCommands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ËŸû
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ´óûÿÿÿÿ
+E
+java:S1172"*Remove this unused method parameter "obj".(ÿ´óûÿÿÿÿ
+}
+java:S62016"bReplace this instanceof check and cast with 'instanceof BoltCommandsResponse boltCommandsResponse'(‹ÎøÔùÿÿÿÿ

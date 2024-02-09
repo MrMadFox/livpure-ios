@@ -1,0 +1,12 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ΒΆΑϊψÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ΒΆΑϊψÿÿÿÿ
+³
+java:S1598"This file "BaseDataHolder.java" should be located in "com/livpure/safedrink/api" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/api".(β¬µΎ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΒΆΑϊψÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "obj2".(ΒΆΑϊψÿÿÿÿ
+q
+java:S6201!"VReplace this instanceof check and cast with 'instanceof BaseDataHolder basedataholder'(ÒΕΨπώÿÿÿÿ

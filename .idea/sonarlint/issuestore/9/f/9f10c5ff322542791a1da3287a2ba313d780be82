@@ -1,0 +1,14 @@
+
+¿
+java:S1598"¨This file "Rijndael.java" should be located in "com/livpure/safedrink/bolt/service" directory, not in "/Users/saipraneeth/Desktop/learn/livpure/safedrink/bolt/service".(©ÃÄĞ
+T
+java:S3516"9Refactor this method to not always return the same value.(í„„°şÿÿÿÿ
+j	java:S116"URename this field "CipherMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›äÔ
+7
+java:S1170"!Make this final field static too.(›äÔ
+z
+java:S1149:"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¿­——ûÿÿÿÿ
+@
+java:S2116."%Use "Arrays.toString(array)" instead.(Ë£¢˜ùÿÿÿÿ
+O
+java:S4719E":Replace Charset.forName() call with StandardCharsets.UTF_8(“İ‚N
